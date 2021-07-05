@@ -1,2 +1,2 @@
 # vavr-practice
-Vavr practives exercies
+Vavr practice exercises
