@@ -5,7 +5,7 @@ import io.vavr.collection.Seq;
 import io.vavr.control.Validation;
 
 /**
- * This example shows you how you can map errors/valid to a common type with <code>fold</code><br/>
+ * This example shows you how you can map errors/valid to a common return type with <code>fold</code><br/>
  * <br/>
  * Note that each example is an improvement over the previous one
  */
